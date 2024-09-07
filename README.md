@@ -2,6 +2,7 @@ JOSE MARTIN SJ. NINOBLA
 2 ECE -D | September 4, 2024
 
 LEARNINGS AND EXPERIENCES
+
  1.) For the first problem while working with this Python code, I learned how to use numpy to generate a 5x5 array of random
   numbers and normalize it by subtracting the mean and dividing by the standard deviation.
   I also discovered how to save this processed data as a file using np.save(), which is useful for storing data for later use. 
